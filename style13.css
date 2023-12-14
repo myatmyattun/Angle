@@ -1,0 +1,434 @@
+
+.pho1{
+    position: absolute;
+    left: 350px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.pho2{
+    position: absolute;
+    top: 130px;
+    left: 510px;
+    font-size:20px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+}
+
+.pho3{
+    position: absolute;
+    top: 150px;
+    left: 510px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.pho4{
+    position: absolute;
+    top: 85px;
+    left: 350px;
+    text-align: center;
+}
+
+.pho5{
+    position: absolute;
+    left: 350px;
+    top: 250px;
+    font-size: 23px;
+}
+.pho6{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+.pho7{
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+.pho8{
+    position: absolute;
+    top: 300px;
+    left: 650px;
+}
+.pho9{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+}
+.pho10{
+    position: absolute;
+    top: 300px;
+    left: 950px;
+}
+
+.pho11{
+    position: absolute;
+    top: 450px;
+    left: 350px;
+}
+.pho12{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+}
+.pho13{
+    position: absolute;
+    top: 450px;
+    left: 650px;
+}
+
+.pho14{
+    position: absolute;
+    top: 450px;
+    left: 800px;
+}
+
+.pho15{
+    position: absolute;
+    top: 450px;
+    left: 950px;
+}
+.pho16{
+    position: absolute;
+    top: 580px;
+    left: 350px;
+    font-size: 20px;
+}
+.pho17{
+    position: absolute;
+    top: 630px;
+    left: 350px;
+}
+.pho18{
+    position: absolute;
+    top: 630px;
+    left: 500px;
+}
+.pho19{
+    position: absolute;
+    top: 630px;
+    left: 650px;
+}
+.pho20{
+    position: absolute;
+    top: 630px;
+    left: 800px;
+}
+.pho21{
+    position: absolute;
+    top: 630px;
+    left: 950px;
+}
+.pho22{
+    position: absolute;
+    top: 780px;
+    left: 350px;
+}
+.pho23{
+    position: absolute;
+    top: 780px;
+    left: 500px;
+}
+.pho24{
+    position: absolute;
+    top: 780px;
+    left: 650px;
+}
+.pho25{
+    position: absolute;
+    top: 780px;
+    left: 800px;
+}
+.pho26{
+    position: absolute;
+    top: 780px;
+    left: 950px;
+}
+.pho27{
+    position: absolute;
+    top: 1030px;
+    left: 520px;
+    font-size: 18px;
+}
+
+.pho28{
+    position: absolute;
+    top: 1050px;
+    left: 500px;
+    font-size: 25px;
+}
+.pho29{
+    position: absolute;
+    top:  1090px;
+    left: 470px;
+    font-size: 15px;
+}
+.pho30{
+    position: absolute;
+    top: 1250px;
+    left: 700px;
+    font-size: 20px;
+}
+.pho31{
+    position: absolute;
+    top: 950px;
+    left: 750px;
+}
+
+.pho32{
+    position: absolute;
+    top: 1300px;
+    left: 440px;
+}
+.pho33{
+    position: absolute;
+    top: 1900px;
+    left: 500px;
+    font-size: 25px;
+}
+.pho34{
+    position: absolute;
+    top: 1945px;
+    left: 520px;
+    font-size: 15px;
+}
+
+.pho35{
+    position: absolute;
+    top: 2000px;
+    left: 360px;
+   
+}
+.pho36{
+    position: absolute;
+    top: 2640px;
+    left: 360px;
+    font-size: 20px;
+   
+}
+
+.pho37{
+    position: absolute;
+    top: 2700px;
+    left: 360px;
+   
+}
+.pho38{
+    position: absolute;
+    top: 2700px;
+    left: 590px; 
+}
+.pho39{
+    position: absolute;
+    top: 2700px;
+    left: 820px;
+   
+}
+.pho40{
+    position: absolute;
+    top: 2800px;
+    left: 950px;
+    font-size: 30px;
+   
+}
+.pho41{
+    position: absolute;
+    top: 2950px;
+    left: 360px;
+    font-size: 20px;
+
+   
+}
+.pho42{
+    position: absolute;
+    top: 2980px;
+    left: 380px;
+    font-size: 18px;
+   
+}
+.pho43{
+    position: absolute;
+    top: 3020px;
+    left: 360px;
+    font-size: 25px;
+}
+.pho44{
+    position: absolute;
+    top: 3090px;
+    left: 380px;
+    
+}
+.pho45{
+    position: absolute;
+    top: 3300px;
+    left: 800px;
+    font-size: 18px;
+    
+}
+.pho46{
+    position: absolute;
+    top: 3350px;
+    left: 800px;
+    font-size: 25px;
+    
+}
+.pho47{
+    position: absolute;
+    top: 3500px;
+    left: 360px; 
+}
+.pho48{
+    position: absolute;
+    top: 3500px;
+    left: 590px; 
+}
+.pho49{
+    position: absolute;
+    top: 3500px;
+    left: 820px; 
+}
+.pho50{
+    position: absolute;
+    top: 3600px;
+    left: 930px;
+    font-size: 25px;
+}
+.pho51{
+    position: absolute;
+    top: 3730px;
+    left: 360px;
+    font-size: 25px;
+}
+.pho52{
+    position: absolute;
+    top: 3800px;
+    left: 360px;
+    font-size: 9px;
+    
+}
+.pho53{
+    position: absolute;
+    top: 3900px;
+    left: 850px;
+    font-size: 18px;
+    
+}
+.pho54{
+    position: absolute;
+    top: 3930px;
+    left: 850px;
+    font-size: 25px;
+    
+}
+.pho55{
+    position: absolute;
+    top: 4270px;
+    left: 360px; 
+}
+.pho56{
+    position: absolute;
+    top: 4270px;
+    left: 530px; 
+}
+.pho57{
+    position: absolute;
+    top: 4270px;
+    left: 680px; 
+}
+.pho58{
+    position: absolute;
+    top: 4440px;
+    left: 360px; 
+}
+.pho59{
+    position: absolute;
+    top: 4440px;
+    left: 530px; 
+}
+.pho60{
+    position: absolute;
+    top: 4440px;
+    left: 680px; 
+}
+.pho61{
+    position: absolute;
+    top: 4410px;
+    left: 860px; 
+    font-size: 18px;
+}
+.pho62{
+    position: absolute;
+    top: 4620px;
+    left: 360px; 
+ 
+}
+.pho63{
+    position: absolute;
+    top: 4730px;
+    left: 780px; 
+ font-size: 25px;
+}
+.pho64{
+    position: absolute;
+    top: 5030px;
+    left: 360px; 
+}
+.pho65{
+    position: absolute;
+    top: 5030px;
+    left: 590px; 
+}
+.pho66{
+    position: absolute;
+    top: 5030px;
+    left: 850px; 
+}
+.pho67{
+    position: absolute;
+    top: 5280px;
+    left: 360px; 
+    font-size: 20px;
+}
+.pho68{
+    position: absolute;
+    top: 5380px;
+    left: 360px; 
+}
+.pho69{
+    position: absolute;
+    top: 5480px;
+    left: 800px; 
+    font-size: 25px;
+}
+.pho70{
+    position: absolute;
+    top:5880px;
+    left: 360px;
+    font-size: 30px;
+
+}
+.pho71{
+    position: absolute;
+    top: 5980px;
+    left: 360px; 
+    font-size: 20px;
+
+}
+.pho72{
+    position: absolute;
+    top: 6010px;
+    left: 360px;
+    font-size: 20px;
+}
+.pho73{
+    position: absolute;
+    top: 6080px;
+    left: 360px;
+    font-size: 20px;
+
+}
+
+        
